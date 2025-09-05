@@ -1,4 +1,4 @@
 # kundan-demo
 This is my first  Git repository.
 <br>
-Author - kundankumar (dahiyar)
+Author - kundankumar (dahiyar ranna)
